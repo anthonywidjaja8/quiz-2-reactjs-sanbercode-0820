@@ -1,0 +1,36 @@
+.cardPhoto {
+  width: 400px;
+  height: 250px;
+}
+
+img{
+  border-radius: 10px 10px 0 0;
+}
+
+.CardDetail{
+  text-align: left;
+  margin: 25px;
+}
+
+.card {
+  display: inline-block;
+  margin: 10px;
+  border: 1px solid black;
+  border-radius: 10px;
+  text-align: left;
+}
+
+.profileCards{
+  margin: 0 20%;
+  text-align: center;
+}
+
+.upperProfileCards {
+  display: flex;
+  flex-direction: row;
+}
+
+.lowerProfileCards {
+  display: flex;
+  flex-direction: row;
+}
